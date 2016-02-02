@@ -2,7 +2,7 @@
 layout: page
 title: Your Name, and an (optional) one liner
 name: Your Name/
-github: @github-username
+github: github-username
 url: http://your-website.com
 tags: designer, javascript, iconographer, typesetter, badger collector
 status: booked / available
