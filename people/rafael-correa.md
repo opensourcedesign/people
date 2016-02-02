@@ -2,7 +2,7 @@
 layout: page
 title: I am Developer, Teacher and Open Source Evangelist
 name: Rafael Correa Gomes/
-github: @rafaelstz
+github: https://github.com/rafaelstz/
 url: https://www.linkedin.com/in/rafaelcgstz
 tags: magento, javascript, php, hacker, jekyll, frontend
 status: available
