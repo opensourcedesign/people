@@ -3,7 +3,7 @@ layout: page
 title: Interaction/Visual Designer
 name: Adam J. Jolicoeur
 github: mindreeper2420
-url: https://www.adamjolicoeur.com
+url: http://www.adamjolicoeur.com
 tags: designer, visuals, html, sass, less
 status: booked
 rate: gratis / $80 hour
