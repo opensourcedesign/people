@@ -4,7 +4,7 @@ title: Mattia Astorino Designer & Developer
 name: Mattia Astorino
 github: equinusocio
 url: http://equinsuocha.io
-tags: designer, javascript, iconographer, typesetter, badger collector
+tags: designer, pseudo-developer
 status: /
 rate: /
 projects: equinusocio/material-theme, equinusocio/ckd-css
