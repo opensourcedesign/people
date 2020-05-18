@@ -16,7 +16,7 @@ like
 
 Our community is spread across various services and maintained by various people. If you've got any questions about those services, please reach out to those people who can help.
 
-* **🌐 [Website opensourcedesign.net**](http://opensourcedesign.net) - domain controlled by [@jancborchardt](https://github.com/jancborchardt) [@bnvk](https://github.com/bnvk) [@ei8fdb](https://github.com/ei8fdb), see [domain contacts](https://github.com/opensourcedesign/organization/issues/84)
+* **🌐** **Website** [**opensourcedesign.net**](http://opensourcedesign.net) - domain controlled by [@jancborchardt](https://github.com/jancborchardt) [@bnvk](https://github.com/bnvk) [@ei8fdb](https://github.com/ei8fdb), see [domain contacts](https://github.com/opensourcedesign/organization/issues/84)
 * [**💻 GitHub @opensourcedesign**](https://github.com/opensourcedesign) - [administrators](https://github.com/orgs/opensourcedesign/people?utf8=%E2%9C%93&query=role%3Aowner+) are from [active contributors](https://github.com/opensourcedesign/organization/issues/63#issuecomment-293839577)
 * [**👥 Discourse forum**](https://discourse.opensourcedesign.net) - [administrators](https://discourse.opensourcedesign.net/about) are limited to 5 and [decided through voting](https://discourse.opensourcedesign.net/t/the-five-members-of-staff/25/17)
 * [**💬 Chat #opensourcedesign**](https://chat.opensourcedesign.net) - run by [@bnvk](https://github.com/bnvk) [@simonv3](https://github.com/simonv3) [@elioqoshi](https://github.com/elioqoshi)
