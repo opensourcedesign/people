@@ -9,7 +9,7 @@ submitter: bnvk
 
 | title | url | deadline | amount | currency | submitter |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
-| git status   | git status     | git status    | git status   | git status     | git status    |
+| Shuttleworth Fellowship | https://foundational.org/applications/ | 2016-11-01  | unspecified | NA  | bnvk |
 
 	
 ## 1) Tell us about the world as you see it.*
