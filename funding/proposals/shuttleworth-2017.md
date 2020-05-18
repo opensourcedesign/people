@@ -1,11 +1,6 @@
----
-title: Shuttleworth Fellowship
-url: https://foundational.org/applications/
-deadline: 2016-11-01
-amount: unspecified
-currency: NA
-submitter: bnvk
----
+| title | url | deadline | amount | currency | submitter |
+| :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
+| Shuttleworth Fellowship | https://foundational.org/applications/ | 2016-11-01  | unspecified | NA  | [bnvk](https://github.com/bnvk) |
 
 	
 ## 1) Tell us about the world as you see it.*
