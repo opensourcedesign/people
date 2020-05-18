@@ -4,7 +4,7 @@ url: https://foundational.org/applications/
 deadline: 2016-11-01
 amount: unspecified
 currency: NA
-submitter: bnvk
+submitter: [bnvk](https://github.com/bnvk)
 ---
 
 	
